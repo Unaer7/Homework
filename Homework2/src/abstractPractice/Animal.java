@@ -1,5 +1,6 @@
 package abstractPractice;
 
+// This is my Animal Interface
 public interface Animal {
 
 
@@ -7,11 +8,3 @@ public interface Animal {
 	public  void eat();
 	
 }
-	
-		
-		
-	
-
-	
-	
-
